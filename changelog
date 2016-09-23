@@ -2,6 +2,8 @@
 
 == Change Log ==
 
+0.3. (2016-09-23) Added template.php that I removed due to error @zack
+
 0.2. (2016-09-23) Added - CodeIgniter files @zack
 
                   Changed - The controller to link to our updated web page files

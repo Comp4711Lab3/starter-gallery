@@ -2,6 +2,14 @@
 
 == Change Log ==
 
+0.6. (2016-09-25) Change - Made a few minor tweaks to finish off the tutorial 03
+                           @zack
+
+0.5. (2016-09-23) Changed - the gallery and welcome views to the new simplified
+                            format @zack
+                  
+                  Added - database logic and controller functions @zack
+
 0.4. (2016-09-23) Changed - template.php to hold header & footer @ck
                   
                   Added - Gallery.php & About.php controllers @ck
